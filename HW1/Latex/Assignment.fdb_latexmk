@@ -1,6 +1,6 @@
 # Fdb version 4
-["bibtex Assignment"] 0 "Assignment.aux" "Assignment.bbl" "Assignment" 1732884267.95448 0
-  "./Assignment-blx.bib" 1732884267.59149 343 3a07cef98ad14713f755034bc844b0fc ""
+["bibtex Assignment"] 0 "Assignment.aux" "Assignment.bbl" "Assignment" 1732890594.03999 0
+  "./Assignment-blx.bib" 1732890593.67845 343 3a07cef98ad14713f755034bc844b0fc ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
   "Assignment.aux" 0 -1 0 "pdflatex"
   "references.bib" 0 -1 0 ""
@@ -8,8 +8,8 @@
   "Assignment.bbl"
   "Assignment.blg"
   (rewritten before read)
-["pdflatex"] 1732884266.74952 "/Users/diogo/Documents/Remote Access Git/Deep Learning/HW1/Latex/Assignment.tex" "Assignment.pdf" "Assignment" 1732884267.95504 0
-  "/Users/diogo/Documents/Remote Access Git/Deep Learning/HW1/Latex/Assignment.tex" 1732884265.30039 1566 63047712b941d86208b1857b54b2a6ef ""
+["pdflatex"] 1732890592.79435 "/Users/diogo/Documents/Remote Access Git/Deep Learning/HW1/Latex/Assignment.tex" "Assignment.pdf" "Assignment" 1732890594.0406 0
+  "/Users/diogo/Documents/Remote Access Git/Deep Learning/HW1/Latex/Assignment.tex" 1732890592.442 1573 635e033a1659fbf4ddfba134df6ad30a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -114,12 +114,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1715906927.4687 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1715906919 8221432 6cab564b959cac28968ffe02b04e4b9d ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Assignment.aux" 1732884267.58911 1816 85c907b8a533b950322c28221364099c "pdflatex"
+  "Assignment.aux" 1732890593.67668 1816 85c907b8a533b950322c28221364099c "pdflatex"
   "Assignment.bbl" 0 -1 0 "bibtex Assignment"
-  "Assignment.out" 1732884267.59014 1851 9b2615e27b4a39df5e344a415abacd5f "pdflatex"
-  "Assignment.run.xml" 1732884267.59241 2576 a110d9505c384967cccdf3e63da93cd4 "pdflatex"
-  "Assignment.tex" 1732884265.30039 1566 63047712b941d86208b1857b54b2a6ef ""
-  "Assignment.toc" 1732884267.59248 991 71bd929acfa1310fd759336271c38e17 "pdflatex"
+  "Assignment.out" 1732890593.67742 1851 9b2615e27b4a39df5e344a415abacd5f "pdflatex"
+  "Assignment.run.xml" 1732890593.67933 2576 a110d9505c384967cccdf3e63da93cd4 "pdflatex"
+  "Assignment.tex" 1732890592.442 1573 635e033a1659fbf4ddfba134df6ad30a ""
+  "Assignment.toc" 1732890593.6794 991 71bd929acfa1310fd759336271c38e17 "pdflatex"
   "scientificreport.cls" 1731394271.87794 2834 af3e37705d14a990a5dee6b2c348347d ""
   (generated)
   "Assignment-blx.bib"
